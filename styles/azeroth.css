@@ -1,4 +1,16 @@
-h1 {
-    color:pink;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+body {
+    background-image:url(/images/quelthalas.jpg);
+    background-repeat: no-repeat;
+      background-size: 2000px 950px;
+    
+}
+
+h1 {font-family:Verdana, Geneva, Tahoma, sans-serif;}
+
+.hero {
+    text-align:center;
+    margin-top: 50px;
+    
 }
